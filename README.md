@@ -9,6 +9,13 @@ built in Python for network reconnaissance.
 - Banner grabbing to identify running services
 - Clean timestamped output
 
+- ## Development
+Built in 4 stages:
+- Stage 1: Basic single port scanner
+- Stage 2: Port range scanner  
+- Stage 3: Added banner grabbing
+- Stage 4: Multithreading for fast scanning
+
 ## Usage
 python3 portscanner.py
 
